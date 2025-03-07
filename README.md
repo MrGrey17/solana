@@ -1,1 +1,1 @@
-# solana
+# Solana Tokens Parser (node, psql ...)
